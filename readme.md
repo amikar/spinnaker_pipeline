@@ -1,0 +1,1 @@
+Spinnaker pipeline, script to check running pipelines for an application and add or remove stages based on json. is made to check for different stages of the pipeline , check if it is running or paused etc
